@@ -1,0 +1,21 @@
+{
+  "name": "@alewin/bolognajs-2025-05-21-talk",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^51.1.0",
+    "shiki": "^3.3.0",
+    "shiki-magic-move": "^1.1.0",
+    "slidev-theme-nearform": "^2.1.0",
+    "vue": "^3.5.13"
+  },
+  "devDependencies": {
+    "@slidev/types": "^51.6.0",
+    "playwright-chromium": "^1.52.0"
+  }
+}

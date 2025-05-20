@@ -1,0 +1,8 @@
+{
+  "name": "@alewin/talks",
+  "version": "1.0.0",
+  "description": "Alessio Koci's talks",
+  "keywords": ["talks"],
+  "author": "Alessio Koci <ko.alessio@gmail.com>",
+  "packageManager": "pnpm@10.10.0"
+}
