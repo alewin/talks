@@ -1,9 +1,9 @@
 {
-  "name": "@alewin/bolognajs-2025-05-21-talk",
+  "name": "@alewin/2025-05-21-talk",
   "type": "module",
   "private": true,
   "scripts": {
-    "build": "slidev build",
+    "build": "slidev build --base /talks/2025-05-21/",
     "dev": "slidev --open",
     "export": "slidev export"
   },

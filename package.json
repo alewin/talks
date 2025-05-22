@@ -1,5 +1,9 @@
 {
   "name": "@alewin/talks",
+  "scripts": {
+    "build": "node build-all-talks.js"
+  },
+  "type": "module",
   "version": "1.0.0",
   "description": "Alessio Koci's talks",
   "keywords": ["talks"],
